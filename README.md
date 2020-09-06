@@ -32,15 +32,15 @@ Java applications deployments and troubleshoting.
 
 # Skills
 
-Languages - Perl, Raku, Powershell, Ruby, Bash
-CICD tools - Jenkins, Azure Devops, Travis
-IAC - Terraform, ARM templates
-Clouds - Azure/Azure Devops
-Databases - MySQL, Postgresql
-Networking - TCP/IP
-OS - Linux/Windows
-Provisioning and CM tools - Opscode chef, Ansible
-
+* Languages - Perl, Raku, Powershell, Ruby, Bash
+* CICD tools - Jenkins, Azure Devops, Travis
+* IAC - Terraform, ARM templates
+* Clouds - Azure/Azure Devops
+* Databases - MySQL, Postgresql
+* Networking - TCP/IP
+* OS - Linux/Windows
+* Provisioning and CM tools - Opscode chef, Ansible
+* Containers - Docker, k8s
 
 # Education
 
