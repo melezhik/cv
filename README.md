@@ -16,8 +16,8 @@ in every devops team I join.
 
 # Contacts
 
-* melezhik@gmail.com
-* +1 832 450 0615
+* email - melezhik@gmail.com
+* cell - +1 832 450 0615
 
 # Job experience
 
