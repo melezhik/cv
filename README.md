@@ -68,5 +68,6 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 
 # Hobby
 
-I am to memorize 3000 English words and phrases, I've made 2500 so far
+I like to memorize 3000 English words and phrases, I've made 2500 so far.
+I have invented my own system of memorization.
 
