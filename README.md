@@ -54,7 +54,7 @@ Java applications deployments and troubleshooting.
 * OS - Linux/Windows
 * Provisioning and CM tools - Opscode chef, Ansible
 * Containers - Docker, k8s
-* Automated testing and TDD - Ruby capybara, cucumber. Perl Test::More. Tomtit.
+* Automated testing and TDD - Ruby capybara, cucumber. Perl Test::More. Raku Tomty.
 
 # Education
 
