@@ -21,7 +21,7 @@ in every devops team I join.
 
 # Job experience
 
-**Mar-2018 - Present** - Senior Software Engineer, EPAM Systems, US. http://www.epam.com
+**Mar-2018 - Present** - Senior Software Engineer, EPAM Systems. US. http://www.epam.com
 
 Participating in various projects for various customers as devops and key developer. Doing a lot of Azure/Azure Devops automation.
 Creating components for CI/CD using different languages (Powershell and Raku). Creating automated tests tools using Raku and
@@ -29,13 +29,13 @@ Powershell, managing Azure Devops infrastructure through Powershell and Rest API
 
 Managing team of developers, code review, mentorships, establishing best practices
 
-**Jan-2015 - Mar-2018** - Senior software engineer, EPAM Systems, Russia. http://www.epam.com
+**Jan-2015 - Mar-2018** - Senior Software Engineer, EPAM Systems. Russia. http://www.epam.com
 
 Participating in various projects for various customers as devops and senior software developer. 
 Configuration management development using Opscode chef and Perl. Creating automated tests tool using Perl.
 Java applications deployments and troubleshooting.
 
-**Jan-2007 - Dec-2014** - senior software engineer, Adriver LTD. Russia
+**Jan-2007 - Dec-2014** - Senior Software Engineer, Adriver LTD. Russia
 
 * Backend and web application development using standard Linux stack - Apache/Nginx, Perl, Mysql/Postgresql, Fast CGI
 * Creating internal build system ( using Perl ) - to enable CICD for multiple developers
