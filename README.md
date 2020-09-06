@@ -35,7 +35,6 @@ Participating in various projects for various customers as devops and senior sof
 Configuration management development using Opscode chef and Perl. Creating automated tests tool using Perl.
 Java applications deployments and troubleshooting.
 
-
 **Jan-2007 - Dec-2014** - senior software engineer, Adriver LTD. Russia
 
 * Backend and web application development using standard Linux stack - Apache/Nginx, Perl, Mysql/Postgresql, Fast CGI
@@ -63,11 +62,13 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 # Open source projects
 
 * https://github.com/melezhik/Sparrow6 - Sparrow - Raku Based Automation Framework
-* https://sparrowdo.wordpress.com/ - Sparrow blog 
-* https://dev.to/melezhik - my dev.to blog
+* https://sparrowdo.wordpress.com/ - Sparrow blog
+* https://dev.to/melezhik - My dev.to blog
 
 # Hobby
 
 I like to memorize 3000 English words and phrases, I've made 2500 so far.
 
+# Awards
 
+I am a Opscode Chef Cooksbooks Contest [runner up](https://blog.chef.io/the-cookbook-contest-is-over-and-the-winners-are/) in 2011.
