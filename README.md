@@ -14,6 +14,11 @@ The last one is - [Sparrow](https://github.com/melezhik/Sparrow6) - Raku automat
 I can teach devops how to create quality tools and usually fill the gaps of lacking development experience
 in every devops team I join.
 
+# Contacts
+
+* melezhik@gmail.com
+* +1 832 450 0615
+
 # Job experience
 
 **Mar-2018 - Present** - Senior Software Engineer, EPAM Systems, US. http://www.epam.com
@@ -49,13 +54,11 @@ Java applications deployments and troubleshooting.
 * OS - Linux/Windows
 * Provisioning and CM tools - Opscode chef, Ansible
 * Containers - Docker, k8s
+* Automated testing and TDD - Ruby capybara, cucumber. Perl Test::More. Tomtit.
 
 # Education
 
-Saint-Petersburg State University, Russia
-Faculty/College: Physics
-Degree (diploma): Master
-Specialty: physics
+Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (diploma): Master. Specialty: physics
 
 # Open source projects
 
