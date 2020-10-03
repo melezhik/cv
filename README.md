@@ -71,4 +71,4 @@ I like to memorize 3000 English words and phrases, I've made 2500 so far.
 
 # Awards
 
-I am a Opscode Chef Cooksbooks Contest [runner up](https://blog.chef.io/the-cookbook-contest-is-over-and-the-winners-are/) in 2011.
+I am a Opscode Chef Cookbooks Contest [runner up](https://blog.chef.io/the-cookbook-contest-is-over-and-the-winners-are/) in 2011.
