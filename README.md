@@ -9,7 +9,7 @@ I can code on many scripting languages including Perl (I used to be a Perl devel
 Ruby (not limited to Ruby on Rails and chef), Bash and Powershell.
 
 My current favorite language is [Raku](http://raku.org/) on which I do a lot of open source projects.
-The last one is - [Sparrow](https://github.com/melezhik/Sparrow6) - Raku automation framework.
+The last one is - [SparrowHub.io](http://sparrowhub.io) - repository of devops and automation tool.
 
 I can teach devops how to create quality tools and usually fill the gaps of lacking development experience
 in every devops team I join.
@@ -61,13 +61,14 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 
 # Open source projects
 
+* [SparrowHub.io](http://sparrowhub.io) - Repository of devops and automation tool.
 * https://github.com/melezhik/Sparrow6 - Sparrow - Raku Based Automation Framework
 * https://sparrowdo.wordpress.com/ - Sparrow blog
 * https://dev.to/melezhik - My dev.to blog
 
 # Hobby
 
-I like to memorize 3000 English words and phrases, I've made 2500 so far.
+I am aiming to memorize 3000 English phrases, I've made 2500 so far.
 
 # Awards
 
