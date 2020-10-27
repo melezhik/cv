@@ -24,7 +24,7 @@ in every devops team I join.
 **Mar-2018 - Present** - Senior Software Engineer, EPAM Systems. US. http://www.epam.com
 
 Participating in various projects for various customers as devops and key developer. Doing a lot of Azure/Azure Devops automation.
-Creating components for CI/CD using different languages (Powershell and Raku). Creating automated tests tools using Raku and
+Creating components for CI/CD using different languages (Powershell,Python and Raku). Creating automated tests tools using Raku and
 Powershell, managing Azure Devops infrastructure through Powershell and Rest API. Managing Azure infrastructure through ARM and Terraform.
 
 Managing team of developers, code review, mentorships, establishing best practices
@@ -44,7 +44,7 @@ Java applications deployments and troubleshooting.
 
 # Skills
 
-* Languages - Perl, Raku, Powershell, Ruby, Bash
+* Languages - Raku, Perl, Powershell, Ruby, Bash, Python
 * CICD tools - Jenkins, Azure Devops, Travis
 * IAC - Terraform, ARM templates
 * Clouds - Azure/Azure Devops
