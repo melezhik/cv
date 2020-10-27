@@ -21,7 +21,7 @@ in every devops team I join.
 
 # Job experience
 
-**Mar-2018 - Present** - Senior Software Engineer, EPAM Systems. US. http://www.epam.com
+**Mar-2018 - Present** - Senior Software Engineer, EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
 
 Participating in various projects for various customers as devops and key developer. Doing a lot of Azure/Azure Devops automation.
 Creating components for CI/CD using different languages (Powershell,Python and Raku). Creating automated tests tools using Raku and
