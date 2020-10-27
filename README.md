@@ -29,7 +29,7 @@ Powershell, managing Azure Devops infrastructure through Powershell and Rest API
 
 Managing team of developers, code review, mentorships, establishing best practices
 
-**Jan-2015 - Mar-2018** - Senior Software Engineer, EPAM Systems. Russia. http://www.epam.com
+**Jan-2015 - Mar-2018** - Senior Software Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
 
 Participating in various projects for various customers as devops and senior software developer. 
 Configuration management development using Opscode chef and Perl. Creating automated tests tool using Perl.
@@ -62,9 +62,9 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 # Open source projects
 
 * [SparrowHub.io](https://sparrowhub.io) - Repository of devops and automation tool.
-* https://github.com/melezhik/Sparrow6 - Sparrow - Raku Based Automation Framework
-* https://sparrowdo.wordpress.com/ - Sparrow blog
-* https://dev.to/melezhik - My dev.to blog
+* [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Raku Based Automation Framework
+* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow blog
+* [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
 
 # Hobby
 
