@@ -68,7 +68,7 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 
 # Hobby
 
-I am aiming to memorize 3000 English phrases, I've made 2500 so far.
+I am aiming to memorize 3000 English phrases, I've made 2800 so far.
 
 # Awards
 
