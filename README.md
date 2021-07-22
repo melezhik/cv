@@ -73,7 +73,7 @@ My blogs
 
 # Hobby
 
-I am aiming to memorize 3000 English phrases, I've made 2800 so far.
+I challenge myself to memorize 3000 English phrases, I've made 2800 so far.
 
 # Awards
 
