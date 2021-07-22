@@ -11,15 +11,15 @@
 
 Working in multiple customers projects as devops and automation engineer.
 
-Developing and maintaining CICD systems for multiple applications and languages, including mobile development ( cordova )
+Developing and maintaining CICD systems for multiple applications and languages, including mobile development ( cordova ).
 
 Automation of Azure/Azure Devops using Rest API Powershell, ARM, Terraform and Ansible.
 
 Devops tools development using various scripting languages including Perl, Python, Powershell, Raku and Bash.
 
-Developing tools for infrastructure testing and deployment (Using Raku and Bash)
+Developing tools for infrastructure testing and deployment (Using Raku and Bash).
 
-Infrastructure tests automation using open source frameworks (Tomty, Sparrow)
+Infrastructure tests automation using open source frameworks (Tomty, Sparrow).
 
 Deploying from the scratch and maintaining openshift/k8s cluster.
 
@@ -41,17 +41,17 @@ Automation of infrastructure using Opscode Chef and Ruby.
 # Skills
 
 * Clouds - Azure/Azure Devops, Openshift/OpenStack,  Aws
-* Programming Languages - Perl, Powershell, Ruby, Bash, Python, Raku
+* Programming languages - Perl, Powershell, Ruby, Bash, Python, Raku
 * Containers - Docker, k8s, Openshift
 * CICD frameworks - Jenkins, Azure Devops, Travis
-* IAC - Terraform, ARM templates
+* Infrastructure as a code - Terraform, ARM templates
 * Configuration management - Opscode chef, Ansible
 * SCM - git, subversion
 * Databases - MySQL, Postgresql
-* Software based storage - ceph
+* Software based storages - ceph
 * Networking - TCP/IP
 * OS - Linux/Windows
-* Automated testing and TDD - Capybara, Cucumber, Test::More, Pytest, RSpec, Chef Inspec
+* Testing Frameworks - Capybara, Cucumber, Test::More, Pytest, RSpec, Chef Inspec
 
 # Education
 
@@ -59,7 +59,7 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 
 # My open source projects
 
-* [https://sparrowhub.io](https://sparrowhub.io) - Repository of devops and automation tools.
+* [https://sparrowhub.io](https://sparrowhub.io) - Repository of devops and automation tools
 * [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Raku Based Automation Framework
 * [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
 * [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow blog
