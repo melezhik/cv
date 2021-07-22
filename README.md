@@ -11,9 +11,9 @@
 
 Working in multiple customers projects as devops and automation engineer.
 
-Developing and maintaining CICD systems for multiple applications and languages, including mobile development ( cordova ).
+Developing and maintaining CICD systems for multiple applications and languages, including mobile development ( Cordova, Kony ).
 
-Automation of Azure/Azure Devops using Rest API Powershell, ARM, Terraform and Ansible.
+Automation of Azure/Azure Devops using Rest API, Powershell, ARM, Terraform and Ansible.
 
 Devops tools development using various scripting languages including Perl, Python, Powershell, Raku and Bash.
 
@@ -21,9 +21,9 @@ Developing tools for infrastructure testing and deployment (Using Raku and Bash)
 
 Infrastructure tests automation using open source frameworks (Tomty, Sparrow).
 
-Deploying from the scratch and maintaining openshift/k8s cluster.
+Deploying from the scratch and maintaining openshift/k8s cluster. 
 
-Mentoring junior devops. Presentations and knowledge sharing.
+Mentoring junior devops. Presentations and knowledge sharing. Coaching.
 
 System design for infrastructure.
 
@@ -36,12 +36,12 @@ Automation of infrastructure using Opscode Chef and Ruby.
 * Backend and web application development using standard Linux stack - Apache/Nginx, Perl, Mysql/Postgresql, FastCGI
 * Creating internal build system ( using Perl ) - to enable CICD for multiple developers
 * Servers provisioning using Opscode chef
-* Creating tools and utilities for operational department tasks -  monitoring and workflow management tools, using Perl, Ruby and Bash.
+* Creating tools and utilities for operational department tasks - monitoring and workflow management tools, using Perl, Ruby and Bash.
 
 # Skills
 
 * Clouds - Azure/Azure Devops, Openshift/OpenStack,  Aws
-* Programming languages - Perl, Powershell, Ruby, Bash, Python, Raku
+* Programming languages - Perl, Powershell, Ruby, Bash, Python, Raku (former Perl6)
 * Containers - Docker, k8s, Openshift
 * CICD frameworks - Jenkins, Azure Devops, Travis
 * Infrastructure as a code - Terraform, ARM templates
@@ -59,8 +59,11 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 
 # My open source projects
 
+I am an active member of Raku (Perl6 community), @melezhik
+
 * [https://sparrowhub.io](https://sparrowhub.io) - Repository of devops and automation tools
 * [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Raku Based Automation Framework
+* [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Raku Testing Framework
 * [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
 * [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow blog
 
