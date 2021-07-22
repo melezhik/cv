@@ -19,7 +19,7 @@ Devops tools development using various scripting languages including Perl, Pytho
 
 Developing tools for infrastructure testing and deployment (Using Raku and Bash).
 
-Infrastructure tests automation using open source frameworks (Tomty, Sparrow).
+Infrastructure tests automation using open source frameworks.
 
 Deploying from the scratch and maintaining openshift/k8s cluster. 
 
