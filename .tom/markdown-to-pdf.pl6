@@ -6,7 +6,7 @@ my %state =  task-run "readme html", "text-markdown", %(
 
 say "<README.html> updated";
 
-task-run "tasks/html-to-pdf", %(
+task-run "html-to-pdf", "weasyprint", %(
   in => "README.html",
   out => "Aleksei Melezhik CV.pdf"
 );
