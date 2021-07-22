@@ -62,10 +62,14 @@ Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (dip
 I am an active member of Raku (Perl6 community), @melezhik
 
 * [https://sparrowhub.io](https://sparrowhub.io) - Repository of devops and automation tools
-* [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Raku Based Automation Framework
-* [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Raku Testing Framework
+* [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
+* [https://github.com/melezhik/Tomty](https://github.com/melezhik/Sparky) - Light weight CI server
+* [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Testing Framework
+
+My blogs
+
 * [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
-* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow blog
+* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow wordpress blog
 
 # Hobby
 
