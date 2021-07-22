@@ -63,7 +63,7 @@ I am an active member of Raku (Perl6 community), @melezhik
 
 * [https://sparrowhub.io](https://sparrowhub.io) - Repository of devops and automation tools
 * [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
-* [https://github.com/melezhik/Tomty](https://github.com/melezhik/Sparky) - Light weight CI server
+* [https://github.com/melezhik/Sparky](https://github.com/melezhik/Sparky) - Sparky - Lightweight CI server
 * [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Testing Framework
 
 My blogs
