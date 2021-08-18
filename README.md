@@ -63,13 +63,15 @@ I am an active member of Raku (Perl6 community), @melezhik
 
 * [https://sparrowhub.io](https://sparrowhub.io) - Repository of devops and automation tools
 * [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
+* [https://github.com/melezhik/bird](https://github.com/melezhik/bird) - Bird - Raku DSL for Linux Servers Verification
+* [https://github.com/melezhik/Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
 * [https://github.com/melezhik/Sparky](https://github.com/melezhik/Sparky) - Sparky - Lightweight CI server
 * [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Testing Framework
 
 My blogs
 
 * [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
-* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow wordpress blog
+* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow blog
 
 # Hobby
 
