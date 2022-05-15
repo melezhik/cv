@@ -1,6 +1,6 @@
 # Aleksei Melezhik 
 
-Chief Devops / Cheif SRE  / Chief Automation Engineer
+Chief Devops / Chief SRE  / Chief Automation Engineer
 
 # Contacts
 
@@ -11,7 +11,7 @@ Chief Devops / Cheif SRE  / Chief Automation Engineer
 
 **Mar-2018 - Present** - Chief System Engineer. EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
 
-Building comprehensive CICD systems from the scratch, implementing infrastructure as a code and devops best practices for multiple customers.
+Building comprehensive CICD systems from the scratch, implementing infrastructure as a code and devops best practices for multiple enterprise customers.
 
 Stack - Azure, Azure Devops, K8S (AKS), Openshift, Python, Perl, Raku
 
