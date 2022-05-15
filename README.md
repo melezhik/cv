@@ -1,68 +1,72 @@
-# Aleksei Melezhik Devops Resume
+# Aleksei Melezhik 
+
+Chief Devops / Cheif SRE  / Chief Automation Engineer
 
 # Contacts
 
-* cell - +1 832 450 0615
+* cell - 8324500615
 * email - melezhik@gmail.com
 
 # Job experience
 
-**Mar-2018 - Present** - Chief System Engineer, EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
+**Mar-2018 - Present** - Chief System Engineer. EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
 
-Working in multiple customers projects as devops and automation engineer.
+Building comprehensive CICD systems from the scratch, implementing infrastructure as a code and devops best practices for multiple customers.
 
-Developing and maintaining CICD systems for multiple applications and languages, including mobile development ( Cordova, Kony ).
-
-Automation of Azure/Azure Devops using Rest API, Powershell, ARM, Terraform and Ansible.
-
-Devops tools development using various scripting languages including Perl, Python, Powershell, Raku and Bash.
-
-Developing tools for infrastructure testing and deployment (Using Raku and Bash).
-
-Infrastructure tests automation using open source frameworks.
-
-Deploying from the scratch and maintaining openshift/k8s cluster. 
-
-Mentoring junior devops. Presentations and knowledge sharing. Coaching.
-
-System design for infrastructure.
+Stack - Azure, Azure Devops, K8S (AKS), Openshift, Python, Perl, Raku
 
 **Jan-2015 - Mar-2018** - Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
 
-Automation of infrastructure using Opscode Chef and Ruby.
+Senior devops, implementing configuration management and infrastructure as a code for big pharma/bio tech customer.
 
-**Jan-2007 - Dec-2014** - Senior Software Engineer, Adriver LTD. Russia. [https://www.adriver.ru/](https://www.adriver.ru/)
+Stack - Opscode Chef, Ruby, Perl, AWS
 
-* Backend and web application development using standard Linux stack - Apache/Nginx, Perl, Mysql/Postgresql, FastCGI
-* Creating internal build system ( using Perl ) - to enable CICD for multiple developers
-* Servers provisioning using Opscode chef
-* Creating tools and utilities for operational department tasks - monitoring and workflow management tools, using Perl, Ruby and Bash.
+**Jan-2007 - Dec-2014** - Lead devops engineer / Senior Software Engineer, Adriver LTD. Russia. [https://www.adriver.ru/](https://www.adriver.ru/)
+
+Building from the scratch internal build and monitoring system, servers provisioning
+
+Stack -  Opscode Chef, Ruby on Rails, Ruby, Svn/Git
+
+Developing internal and external Web APIs within team of developers.
+
+Stack - Perl, Nginx, Postgresql, MySQL, FastCGI, Linux
 
 # Skills
 
-* Clouds - Azure/Azure Devops, Openshift/OpenStack,  Aws
-* Programming languages - Perl, Powershell, Ruby, Bash, Python, Raku (former Perl6)
-* Containers - Docker, k8s, Openshift
-* CICD frameworks - Jenkins, Azure Devops, Travis
-* Infrastructure as a code - Terraform, ARM templates
-* Configuration management - Opscode chef, Ansible
+* Clouds - extensive experience with Azure/Azure Devops,OpenStack
+* Kubernetes - AKS, Openshift, Docker
+* Programming languages - many years of experience building 
+systems with Python, Raku, Perl,Powershell, Ruby, Bash
+* Algorithms and data structures
+* CICD frameworks - Azure Devops, GitLab, GitHub Actions, Jenkins, Travis
+* Infrastructure as a code - Terraform, ARM templates, Azure Biceps
+* Automation and configuration management tools - Opscode chef, Ansible, Sparrow
 * SCM - git, subversion
 * Databases - MySQL, Postgresql
-* Software based storages - ceph
+* Software based storage - ceph
 * Networking - TCP/IP
 * OS - Linux/Windows
 * Testing Frameworks - Capybara, Cucumber, Test::More, Pytest, RSpec, Chef Inspec
 
 # Education
 
-Saint-Petersburg State University, Russia. Faculty/College: Physics. Degree (diploma): Master. Specialty: physics
+Saint-Petersburg State University, Russia. 
+
+Faculty/College: Physics. 
+
+Degree (diploma): Master. 
+
+Specialty: physics
 
 # My open source projects
 
-I am an active member of Raku (Perl6 community), @melezhik
+I am an active member of Raku (former Perl6) community, @melezhik
 
-* [https://sparrowhub.io](https://sparrowhub.io) - Repository of devops and automation tools
+My actively maintained open source projects:
+
+* [https://sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
 * [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
+* [http://sparrowhub.io:2222](http://sparrowhub.io:2222) - SparkyCI - dead easy CI service
 * [https://github.com/melezhik/bird](https://github.com/melezhik/bird) - Bird - Raku DSL for Linux Servers Verification
 * [https://github.com/melezhik/Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
 * [https://github.com/melezhik/Sparky](https://github.com/melezhik/Sparky) - Sparky - Lightweight CI server
@@ -72,7 +76,7 @@ I am an active member of Raku (Perl6 community), @melezhik
 My blogs
 
 * [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
-* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow blog
+* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow/Sparrowdo blog
 
 # Hobby
 

@@ -8,8 +8,8 @@ say "<README.html> updated";
 
 task-run "html-to-pdf", "weasyprint", %(
   in => "README.html",
-  out => "Aleksei_Melezhik_CV.pdf"
+  out => "Aleksei_Melezhik_Devops_SRE_Automation_CV.pdf"
 );
 
-say "<Aleksei_Melezhik_CV.pdf> updated";
+say "<Aleksei_Melezhik_Devops_SRE_Automation_CV.pdf> updated";
 
