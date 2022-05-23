@@ -1,6 +1,6 @@
 # Aleksei Melezhik 
 
-Chief Devops / Chief SRE  / Chief Automation Engineer
+Chief Devops / Chief SRE  / Chief Automation Engineer / Devops Architect
 
 # Contacts
 
