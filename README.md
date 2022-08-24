@@ -1,6 +1,6 @@
 # Aleksei Melezhik 
 
-Chief Devops / Chief SRE  / Chief Automation Engineer / Devops Architect
+Lead devops automation engineer
 
 # Contacts
 
@@ -44,8 +44,8 @@ systems with Python, Raku, Perl,Powershell, Ruby, Bash
 * SCM - git, subversion
 * Databases - MySQL, Postgresql
 * Software based storage - ceph
-* Networking - TCP/IP
-* OS - Linux/Windows
+* Networking - TCP/IP stack
+* OS - Linux/Windows. Linux kernel concept. OS fundamentals. 
 * Testing Frameworks - Capybara, Cucumber, Test::More, Pytest, RSpec, Chef Inspec
 
 # Education
@@ -60,18 +60,23 @@ Specialty: physics
 
 # My open source projects
 
-I am an active member of Raku (former Perl6) community, @melezhik
+I am an active member of [Raku](https://raku.org) community, @melezhik
 
 My actively maintained open source projects:
 
 * [https://sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
-* [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
 * [http://sparrowhub.io:2222](http://sparrowhub.io:2222) - SparkyCI - dead easy CI service
+* [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
 * [https://github.com/melezhik/bird](https://github.com/melezhik/bird) - Bird - Raku DSL for Linux Servers Verification
 * [https://github.com/melezhik/Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
 * [https://github.com/melezhik/Sparky](https://github.com/melezhik/Sparky) - Sparky - Lightweight CI server
 * [https://github.com/melezhik/Tomtit](https://github.com/melezhik/Tomtit) - Tomtit - Raku Task Runner
 * [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Testing Framework
+
+My speeches
+
+* [Tomtit - Raku Task Runner](https://twitter.com/melezhik2/status/1558570476812787713)
+- The Raku Conference. 2022.
 
 My blogs
 
