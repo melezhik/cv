@@ -73,10 +73,16 @@ My actively maintained open source projects:
 * [https://github.com/melezhik/Tomtit](https://github.com/melezhik/Tomtit) - Tomtit - Raku Task Runner
 * [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Testing Framework
 
-My speeches
+My public talks
 
 * [Tomtit - Raku Task Runner](https://twitter.com/melezhik2/status/1558570476812787713)
 - The Raku Conference. 2022.
+
+* [5 minutes introduction into Sparrow](https://conf.raku.org/talk/164)
+- The Raku Conference. 2021.
+
+* [5 minutes introduction into Bird](https://conf.raku.org/talk/165)
+- The Raku Conference. 2021.
 
 My blogs
 
