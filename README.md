@@ -65,7 +65,7 @@ I am an active member of [Raku](https://raku.org) community, @melezhik
 My actively maintained open source projects:
 
 * [https://sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
-* [http://sparrowhub.io:2222](http://sparrowhub.io:2222) - SparkyCI - dead easy CI service
+* [https://ci.sparrowhub.io](https://ci.sparrowhub.io) - SparkyCI - dead easy CI service
 * [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
 * [https://github.com/melezhik/bird](https://github.com/melezhik/bird) - Bird - Raku DSL for Linux Servers Verification
 * [https://github.com/melezhik/Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
