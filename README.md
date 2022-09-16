@@ -7,6 +7,18 @@ Lead devops automation engineer
 * cell - 8324500615
 * email - melezhik@gmail.com
 
+# Intro
+
+Hi! I am passionate about automation in DevOps. 
+
+I am the author of numerous automation frameworks and services written in Raku and for Raku community. 
+
+Sparrow/Sparky/SparkyCI/Cromtit/Tomtit/R3Tool/Rakusta to name a few. 
+
+I architect complex CICD system from the scratch and produce simple to maintain and scalable design including implementation.
+
+My current interest is to build distributed job management system on Raku - Cromtit project.
+
 # Job experience
 
 **Mar-2018 - Present** - Chief System Engineer. EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
@@ -87,12 +99,13 @@ The Raku Conference. 2021.
 
 ## My blogs
 
-* [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
 * [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow/Sparrowdo blog
+
+* [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
 
 # Hobby
 
-I challenge myself to memorize 3000 English phrases, I've made 2800 so far.
+I've challenged myself to memorize 3000 English phrases and I made it!
 
 # Awards
 
