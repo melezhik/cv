@@ -17,7 +17,7 @@ Sparrow/Sparky/SparkyCI/Cromtit/Tomtit/R3Tool/Rakusta to name a few.
 
 I architect complex CICD system from the scratch and produce simple to maintain and scalable design including implementation.
 
-My current interest is to build distributed job management system on Raku - Cromtit project.
+My current interest is to build distributed job management system on Raku - [Cromtit](https://github.com/melezhik/Cromtit) project.
 
 # Job experience
 
