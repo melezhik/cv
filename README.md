@@ -1,6 +1,6 @@
 # Aleksei Melezhik 
 
-Lead devops automation engineer
+Lead devops/automation engineer
 
 # Contacts
 
