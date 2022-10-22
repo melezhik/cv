@@ -1,6 +1,6 @@
 # Aleksei Melezhik 
 
-Lead devops/automation engineer
+Principal Devops/Automation Engineer with Focus on Platform Engineering.
 
 # Contacts
 
