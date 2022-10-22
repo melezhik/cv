@@ -9,15 +9,14 @@ Lead devops automation engineer
 
 # Intro
 
-Hi! I am passionate about automation in DevOps. 
+Hi! I am author and owner of [SparrowCI](https://ci.sparrowhub.io) - CICD super fun and flexible CI system with many programming languages support.
 
-I am the author of numerous automation frameworks and services written in Raku and for Raku community. 
+I am passionate about devops, CICD and automation and can code on many languages
+including Python, Raku, Ruby and Perl.
 
-Sparrow/Sparky/SparkyCI/Cromtit/Tomtit/R3Tool/Rakusta to name a few. 
-
-I architect complex CICD system from the scratch and produce simple to maintain and scalable design including implementation.
-
-My current interest is to build distributed job management system on Raku - [Cromtit](https://github.com/melezhik/Cromtit) project.
+I am looking for a job where I can apply all my experience in full,
+I want to build internal tools, devops frameworks and platform engineering 
+systems.
 
 # Job experience
 
@@ -76,16 +75,23 @@ I am an active member of [Raku](https://raku.org) community, @melezhik
 
 My actively maintained open source projects:
 
-* [https://sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
-* [https://sparky.sparrowhub.io](https://sparky.sparrowhub.io) - Sparky is a flexible and minimalist continuous integration server and distribute tasks runner written in Raku
-* [https://ci.sparrowhub.io](https://ci.sparrowhub.io) - SparkyCI - dead easy CI service
+* [ci.sparrowhub.io](https://ci.sparrowhub.io) - SparrowCI - super fun and flexible CI system with many programming languages support
 
-* [https://github.com/melezhik/Sparrow6](https://github.com/melezhik/Sparrow6) - Sparrow - Automation Framework
-* [https://github.com/melezhik/bird](https://github.com/melezhik/bird) - Bird - Raku DSL for Linux Servers Verification
-* [https://github.com/melezhik/Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
-* [https://github.com/melezhik/Sparky](https://github.com/melezhik/Sparky) - Sparky - Lightweight CI server
-* [https://github.com/melezhik/Tomtit](https://github.com/melezhik/Tomtit) - Tomtit - Raku Task Runner
-* [https://github.com/melezhik/Tomty](https://github.com/melezhik/Tomty) - Tomty - Testing Framework
+* [sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
+
+* [sparky.sparrowhub.io](https://sparky.sparrowhub.io) - Sparky is a flexible and minimalist continuous integration server and distributed tasks runner
+
+* [Cromtit](https://github.com/melezhik/Cromtit) -distributed jobs orchestrator
+
+* [Sparrow](https://github.com/melezhik/Sparrow6) -  Multi language Automation Framework
+
+* [bird](https://github.com/melezhik/bird) - Raku DSL for Linux Servers Verification
+
+* [Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
+
+* [Tomtit](https://github.com/melezhik/Tomtit) - Raku Task Runner
+
+* [Tomty](https://github.com/melezhik/Tomty) - Black Box Testing Framework with focus on devops
 
 ## My public talks
 
@@ -104,10 +110,6 @@ The Raku Conference. 2021.
 * [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow/Sparrowdo blog
 
 * [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
-
-# Hobby
-
-I've challenged myself to memorize 3000 English phrases and I made it!
 
 # Awards
 
