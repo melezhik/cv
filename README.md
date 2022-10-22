@@ -81,11 +81,11 @@ My actively maintained open source projects:
 
 * [sparky.sparrowhub.io](https://sparky.sparrowhub.io) - Sparky is a flexible and minimalist continuous integration server and distributed tasks runner
 
-* [Cromtit](https://github.com/melezhik/Cromtit) -distributed jobs orchestrator
+* [Cromtit](https://github.com/melezhik/Cromtit) - Distributed jobs orchestrator
 
 * [Sparrow](https://github.com/melezhik/Sparrow6) -  Multi language Automation Framework
 
-* [bird](https://github.com/melezhik/bird) - Raku DSL for Linux Servers Verification
+* [Bird](https://github.com/melezhik/bird) - Raku DSL for Linux Servers Verification
 
 * [Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
 
