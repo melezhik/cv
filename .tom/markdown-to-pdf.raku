@@ -2,7 +2,7 @@ my %state =  task-run "readme html", "text-markdown", %(
   file => "README.md"
 );
 
-my $cv-name = "Aleksei_Melezhik_Lead_Devops_AutomationCV.pdf";
+my $cv-name = "Aleksei_Melezhik_CV.pdf";
 
 "README.html".IO.spurt(%state<html>);
 
