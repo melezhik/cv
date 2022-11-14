@@ -9,7 +9,7 @@ Principal Devops/Automation Engineer with Focus on Platform Engineering.
 
 # Intro
 
-Hi! I am author and owner of [SparrowCI](https://ci.sparrowhub.io) - CICD super fun and flexible CI system with many programming languages support.
+Hi! I am author and owner of [SparrowCI](https://ci.sparrowhub.io) - super fun and flexible CI system with many programming languages support.
 
 I am passionate about devops, CICD and automation and can code on many languages
 including Python, Raku, Ruby and Perl.
