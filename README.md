@@ -47,7 +47,7 @@ Stack - Perl, Nginx, Postgresql, MySQL, FastCGI, Linux
 * Clouds - extensive experience with Azure/Azure Devops,OpenStack
 * Kubernetes - AKS, Openshift, Docker
 * Programming languages - many years of experience building 
-systems with Python, Raku, Perl,Powershell, Ruby, Bash
+systems with Python, Raku, GoLang, Perl,Powershell, Ruby, Bash
 * Algorithms and data structures
 * CICD frameworks - Azure Devops, GitLab, GitHub Actions, Jenkins, Travis
 * Infrastructure as a code - Terraform, ARM templates, Azure Biceps
