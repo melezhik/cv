@@ -9,38 +9,50 @@ Principal Devops/Automation Engineer with Focus on Platform Engineering.
 
 # Intro
 
-Hi! I am author and owner of [SparrowCI](https://ci.sparrowhub.io) - super fun and flexible CI system with many programming languages support.
+I have a strong skill set related to platform engineering and can code in many modern 
+programming languages including Python, Raku, GoLang, Ruby, Powershell, Perl and Bash. 
 
-I am passionate about devops, CICD and automation and can code on many languages
-including Python, Raku, Ruby and Perl.
+I am the author of many open source automation frameworks. 
 
-I am looking for a job where I can apply all my experience in full,
-I want to build internal tools, devops frameworks and platform engineering 
-systems.
+I can do system design and implement existing solutions.
+
+I am very systematic and attentive to details. I love document my code in simple and
+comprehensive manner.
+
+Overall I am able to find a good balance between design, efficiency and code quality.
 
 # Job experience
 
 **Mar-2018 - Present** - Chief System Engineer. EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
 
-Building comprehensive CICD systems from the scratch, implementing infrastructure as a code and devops best practices for multiple enterprise customers.
+Building comprehensive CICD systems from the scratch, implementing infrastructure as a code and devops best practices 
+for multiple enterprise level customers.
 
-Stack - Azure, Azure Devops, K8S (AKS), Openshift, Python, Perl, Raku
+Architect and key developer for various platform engineering services and tools. 
+
+Technical Stack - Azure, Azure Devops, K8S/Openshift, Python, Powershell, Perl, Raku, GitOps
 
 **Jan-2015 - Mar-2018** - Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
 
 Senior devops, implementing configuration management and infrastructure as a code for big pharma/bio tech customer.
 
-Stack - Opscode Chef, Ruby, Perl, AWS
+Stack - Opscode Chef, Ruby, Perl, AWS. Debugging and support java applications (Java/Tomcat)
 
 **Jan-2007 - Dec-2014** - Lead devops engineer / Senior Software Engineer, Adriver LTD. Russia. [https://www.adriver.ru/](https://www.adriver.ru/)
 
-Building from the scratch internal build and monitoring system, servers provisioning
+As lead devops:
+
+Building from the scratch internal build and monitoring systems (Ruby on Rails / Sinatra / Local CPAN), servers provisioning (chef).
+
+Helping developers and operation deparatments cooperations, teaching operation people start working with chef. 
 
 Stack -  Opscode Chef, Ruby on Rails, Ruby, Svn/Git
 
-Developing internal and external Web APIs within team of developers.
+As seniour backend developer:
 
-Stack - Perl, Nginx, Postgresql, MySQL, FastCGI, Linux
+Developing internal and external Web APIs within team of developers (Perl, Catalyst, FastCGI)
+
+Technical stack - Perl, Nginx, Postgresql, MySQL, FastCGI, Linux
 
 # Skills
 
@@ -56,8 +68,10 @@ systems with Python, Raku, GoLang, Perl,Powershell, Ruby, Bash
 * Databases - MySQL, Postgresql
 * Software based storage - ceph
 * Networking - TCP/IP stack
-* OS - Linux/Windows. Linux kernel concept. OS fundamentals. 
-* Testing Frameworks - Capybara, Cucumber, Test::More, Pytest, RSpec, Chef Inspec
+* Operations systems - Debian/Ubuntu/Alpine/Arch. Windows servers.
+* Linux kernel concept. OS fundamentals. 
+* Testing Frameworks - Test::More, Pytest, RSpec, Chef Inspec, Cucumber
+* UI tests - Ruby capybara / selenium 
 
 # Education
 
@@ -67,7 +81,7 @@ Faculty/College: Physics.
 
 Degree (diploma): Master. 
 
-Specialty: physics
+Specialty: Computational Physics
 
 # My open source projects
 
@@ -78,20 +92,6 @@ My actively maintained open source projects:
 * [ci.sparrowhub.io](https://ci.sparrowhub.io) - SparrowCI - super fun and flexible CI system with many programming languages support
 
 * [sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
-
-* [sparky.sparrowhub.io](https://sparky.sparrowhub.io) - Sparky is a flexible and minimalist continuous integration server and distributed tasks runner
-
-* [Cromtit](https://github.com/melezhik/Cromtit) - Distributed jobs orchestrator
-
-* [Sparrow](https://github.com/melezhik/Sparrow6) -  Multi language Automation Framework
-
-* [Bird](https://github.com/melezhik/bird) - Raku DSL for Linux Servers Verification
-
-* [Sparrowdo](https://github.com/melezhik/Sparrowdo) - Run Sparrow tasks remotely (and not only)
-
-* [Tomtit](https://github.com/melezhik/Tomtit) - Raku Task Runner
-
-* [Tomty](https://github.com/melezhik/Tomty) - Black Box Testing Framework with focus on devops
 
 ## My public talks
 
@@ -107,9 +107,12 @@ The Raku Conference. 2021.
 
 ## My blogs
 
+* [https://medium.com/@melezhik2] - Medium blog
+
+* [https://dev.to/melezhik](https://dev.to/melezhik) - dev.to blog
+
 * [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow/Sparrowdo blog
 
-* [https://dev.to/melezhik](https://dev.to/melezhik) - My dev.to blog
 
 # Awards
 
