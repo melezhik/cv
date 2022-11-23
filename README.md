@@ -4,22 +4,28 @@ Principal Devops/Automation Engineer with Focus on Platform Engineering.
 
 # Contacts
 
-* cell - 8324500615
-* email - melezhik@gmail.com
+Cell phone - +1 832-450-0615 /  Email - melezhik@gmail.com
 
-# Intro
+# Self introduction
 
-I have a strong skill set related to platform engineering and can code in many modern 
-programming languages including Python, Raku, GoLang, Ruby, Powershell, Perl and Bash. 
+I have a strong skill set related to platform engineering and devops.
 
-I am the author of many open source automation frameworks. 
+I code on many programming languages including Python, Ruby, GoLang, Perl and Powershell.
 
-I can do system design and implement existing solutions.
+I am the author of many open source automation frameworks and active member of Raku language community.
 
-I am very systematic and attentive to details. I love document my code in simple and
-comprehensive manner.
+I do system design and implement existing solutions, wearing many hats at the same time.
 
-Overall I am able to find a good balance between design, efficiency and code quality.
+I am very systematic and attentive to details. I love document my code in a simple and
+
+easy to ready manner.
+
+I can work both with legacy code, eventually bringing things in order and
+starting green fields projects.
+
+I am familiar with system design, algorithm and data structure concepts.
+
+I can always  find a good balance between design, efficiency and code quality.
 
 # Job experience
 
@@ -44,11 +50,11 @@ As lead devops:
 
 Building from the scratch internal build and monitoring systems (Ruby on Rails / Sinatra / Local CPAN), servers provisioning (chef).
 
-Helping developers and operation deparatments cooperations, teaching operation people start working with chef. 
+Helping developers and operation departments cooperation, teaching operation people start working with chef. 
 
-Stack -  Opscode Chef, Ruby on Rails, Ruby, Svn/Git
+Stack -  Opscode Chef, Ruby on Rails, Ruby, SVN/Git
 
-As seniour backend developer:
+As senior backend developer:
 
 Developing internal and external Web APIs within team of developers (Perl, Catalyst, FastCGI)
 
@@ -72,6 +78,7 @@ systems with Python, Raku, GoLang, Perl,Powershell, Ruby, Bash
 * Linux kernel concept. OS fundamentals. 
 * Testing Frameworks - Test::More, Pytest, RSpec, Chef Inspec, Cucumber
 * UI tests - Ruby capybara / selenium 
+* Package manager and build tools - CPAN/Ruby gems/PIP/apt/apk/yum
 
 # Education
 
@@ -93,6 +100,10 @@ My actively maintained open source projects:
 
 * [sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
 
+My github profile with numerious repositories:
+
+[github.com/melezhik](https://github.com/melezhik)
+
 ## My public talks
 
 The Raku Conference. 2022.
@@ -112,7 +123,6 @@ The Raku Conference. 2021.
 * [https://dev.to/melezhik](https://dev.to/melezhik) - dev.to blog
 
 * [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow/Sparrowdo blog
-
 
 # Awards
 
