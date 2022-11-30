@@ -36,11 +36,13 @@ for multiple enterprise level customers.
 
 Architect and key developer for various platform engineering services and tools. 
 
-Technical Stack - Azure, Azure Devops, K8S/Openshift, Python, Powershell, Perl, Raku, GitOps
+Technical Stack - Azure, Azure Devops, Artifactory, K8S/Openshift, Python, Powershell, Perl, Raku, GitOps
 
 **Jan-2015 - Mar-2018** - Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
 
 Senior devops, implementing configuration management and infrastructure as a code for big pharma/bio tech customer.
+
+Automation and integration with Artifactory using Rest API
 
 Stack - Opscode Chef, Ruby, Perl, AWS. Debugging and support java applications (Java/Tomcat)
 
@@ -64,6 +66,7 @@ Technical stack - Perl, Nginx, Postgresql, MySQL, FastCGI, Linux
 
 * Clouds - extensive experience with Azure/Azure Devops,OpenStack
 * Kubernetes - AKS, Openshift, Docker
+* Repository managers - Atifactory, Alpine apk, Debian dpkg, Gentoo ebuild 
 * Programming languages - many years of experience building 
 systems with Python, Raku, GoLang, Perl,Powershell, Ruby, Bash
 * Algorithms and data structures
@@ -78,7 +81,7 @@ systems with Python, Raku, GoLang, Perl,Powershell, Ruby, Bash
 * Linux kernel concept. OS fundamentals. 
 * Testing Frameworks - Test::More, Pytest, RSpec, Chef Inspec, Cucumber
 * UI tests - Ruby capybara / selenium 
-* Package manager and build tools - CPAN/Ruby gems/PIP/apt/apk/yum
+* Language Package manager and build tools - CPAN/Ruby gems/PIP/zef
 
 # Education
 
