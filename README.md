@@ -100,7 +100,7 @@ My actively maintained open source projects:
 
 * [sparrowhub.io](https://sparrowhub.io) - Repository of Sparrow plugins
 
-My github profile with numerious repositories:
+My github profile with numerous repositories:
 
 [github.com/melezhik](https://github.com/melezhik)
 
@@ -118,7 +118,7 @@ The Raku Conference. 2021.
 
 ## My blogs
 
-* [https://medium.com/@melezhik2] - Medium blog
+* [https://medium.com/@melezhik2](https://medium.com/@melezhik2) - Medium blog
 
 * [https://dev.to/melezhik](https://dev.to/melezhik) - dev.to blog
 
