@@ -40,7 +40,7 @@ Technical Stack - Azure, Azure Devops, Artifactory, K8S/Openshift, Python, Power
 
 Specific tasks performed:
 
-* Building Azure devops pipelines using Python and Jinja templates. 
+* Building Azure devops pipelines using Python and Jinja templates
 
 * Developing Python libraries for Azure devops pipelines - automation via RestAPI
 
@@ -54,9 +54,9 @@ Senior devops, implementing configuration management and infrastructure as a cod
 
 Specific tasks performed:
 
-* Automation and integration with Artifactory repository using Artifactory Rest API.
+* Automation and integration with Artifactory repository using Artifactory Rest API
 
-* Maintaining artifactory repositories. 
+* Maintaining artifactory repositories for multiple dev teams
 
 Stack - Opscode Chef, Ruby, Perl, AWS. Debugging and support java applications (Java/Tomcat)
 
