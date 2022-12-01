@@ -38,21 +38,25 @@ Architect and key developer for various platform engineering services and tools.
 
 Technical Stack - Azure, Azure Devops, Artifactory, K8S/Openshift, Python, Powershell, Perl, Raku, GitOps
 
+Specific tasks performed:
+
+* Building Azure devops pipelines using Python and Jinja templates. 
+
+* Developing Python libraries for Azure devops pipelines - automation via RestAPI
+
+* Maintaining, developing and integration of security check pipelines: 
+
+WhiteSource, Trivia, VeraCode, Virus Total, SSLLabs, Fortify using Ado pipelines and Powershell
+
 **Jan-2015 - Mar-2018** - Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
 
 Senior devops, implementing configuration management and infrastructure as a code for big pharma/bio tech customer.
 
-Automation and integration with Artifactory repository using Artifactory Rest API.
+Specific tasks performed:
 
-Maintaining artifactory repositories. 
+* Automation and integration with Artifactory repository using Artifactory Rest API.
 
-Building Azure devops pipelines using Python and Jinja template. 
-
-Developing Python libraries for Azure devops pipelines - automation via RestAPI
-
-Maintaining, developing and integration of 
-security check pipelines - WhiteSource, Trivia, VeraCode, Virus Total, SSLLabs, Fortify 
-using Ado pipelines and Powershell
+* Maintaining artifactory repositories. 
 
 Stack - Opscode Chef, Ruby, Perl, AWS. Debugging and support java applications (Java/Tomcat)
 
