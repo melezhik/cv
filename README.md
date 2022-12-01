@@ -42,7 +42,17 @@ Technical Stack - Azure, Azure Devops, Artifactory, K8S/Openshift, Python, Power
 
 Senior devops, implementing configuration management and infrastructure as a code for big pharma/bio tech customer.
 
-Automation and integration with Artifactory using Rest API
+Automation and integration with Artifactory repository using Artifactory Rest API.
+
+Maintaining artifactory repositories. 
+
+Building Azure devops pipelines using Python and Jinja template. 
+
+Developing Python libraries for Azure devops pipelines - automation via RestAPI
+
+Maintaining, developing and integration of 
+security check pipelines - WhiteSource, Trivia, VeraCode, Virus Total, SSLLabs, Fortify 
+using Ado pipelines and Powershell
 
 Stack - Opscode Chef, Ruby, Perl, AWS. Debugging and support java applications (Java/Tomcat)
 
