@@ -40,9 +40,9 @@ Technical Stack - Azure, Azure Devops, Artifactory, K8S/Openshift, Python, Power
 
 Specific tasks performed:
 
-* Building Azure devops pipelines using Python and Jinja templates
+* Building Azure devops pipelines using code generator pattern, Python and Jinja templates
 
-* Developing Python libraries for Azure devops pipelines - automation via RestAPI
+* Developing various Python libraries for Azure devops pipelines - automation via RestAPI and http client 
 
 * Maintaining, developing and integration of security check pipelines: 
 
