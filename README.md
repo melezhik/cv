@@ -30,7 +30,7 @@ I can and love write tests for all my code. From low level (unit test) to high l
 I am very systematic and attentive to details. I love and I can document my code.
 
 I can work both with legacy systems, eventually bringing things in order, and 
-yes I love to start  green fields projects :-)
+yes - I love to start  green fields projects :-)
 
 I am familiar with system design patterns, algorithms and data structures.
 
