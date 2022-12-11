@@ -54,7 +54,7 @@ various CICD systems and frameworks. For numerous  projects, customers and techn
 
 Work closely with architects, developers and operations acting as a key technical driver in devops processes.
 
-Automation of openshift installation using standard installers and writing custom code.
+Automation of openshift installation using standard installers and writing custom code (OpenStack)
 
 Verification of complex k8s clusters configuration using numerous high level programming languages.
 
@@ -78,7 +78,7 @@ Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.e
 Automation of AWS based infrastructure for big pharmacy/bio tech customer with Ruby and Opscode chef
 cookbooks.
 
-Development of http tests automation framework (Perl, http, Bash) as a result 
+Development of http tests automation framework (Perl, curl/http, Bash) as a result 
 has tremendously increased confidence in deployment for dozens java web applications.
 
 Automation and integration with Artifactory repository using Artifactory Rest API
