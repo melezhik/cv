@@ -1,78 +1,113 @@
 # Aleksei Melezhik 
 
-Principal Devops/Automation Engineer with Focus on Platform Engineering.
+Lead Devops / Platform Engineer
 
 # Contacts
 
-Cell phone - +1 832-450-0615 /  Email - melezhik@gmail.com
+Cell phone: +1 832-450-0615
+
+Email: melezhik@gmail.com
 
 # Self introduction
 
 I have a strong skill set related to platform engineering and devops.
 
-I code on many programming languages including Python, Ruby, GoLang, Perl and Powershell.
+I have built quote a number of internal devops services, tools and automation frameworks
+covering various aspects of SDLC.
 
-I am the author of many open source automation frameworks and active member of Raku language community.
+I can easily code on many programming languages including Python, Ruby, Perl, Raku, Powershell
+and Golang.
 
-I do system design and implement existing solutions, wearing many hats at the same time.
+I can mix building of custom frameworks with use of well known systems and tools.
 
-I am very systematic and attentive to details. I love document my code in a simple and
+I can not only code but make a solid system design acting as a ubiquitous mediator 
+between ops, devs and architects.
 
-easy to ready manner.
+I love to convert confusing and tangled systems into simple and easy to maintain.
 
-I can work both with legacy code, eventually bringing things in order and
-starting green fields projects.
+I can and love write tests to all my code. I can write any sort of tests - unit tests,
+integration tests, acceptance tests and UI tests.
+
+I am very systematic and attentive to details. I love and I can document my code.
+
+I can work both with legacy code, eventually bringing things in order, and 
+yes I love to start  green fields projects :-)
 
 I am familiar with system design, algorithm and data structure concepts.
 
-I can always  find a good balance between design, efficiency and code quality.
+I can always find a good balance in spending my work time to create a proper design, 
+write quality code, sharing knowledge with other and writing documentations
+
+I am the author of many open source automation frameworks and active member of Raku language community.
+
+Following is my job history and achievements for the last 15 years
 
 # Job experience
 
-**Mar-2018 - Present** - Chief System Engineer. EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
+**Mar-2018 - Present**
 
-Building comprehensive CICD systems from the scratch, implementing infrastructure as a code and devops best practices 
-for multiple enterprise level customers.
+Chief System Engineer. EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
 
-Architect and key developer for various platform engineering services and tools. 
+Act as architect and key developer in building and development of 
+various CICD systems and frameworks. For numerous  projects, customers and technical stacks.
 
-Technical Stack - Azure, Azure Devops, Artifactory, K8S/Openshift, Python, Powershell, Perl, Raku, GitOps
+Work closely with architects, developers and operations acting as a key technical driver in devops processes.
 
-Specific tasks performed:
+Automation of openshift installation using standard installers and writing custom code.
 
-* Building Azure devops pipelines using code generator pattern, Python and Jinja templates
+Verification of complex k8s clusters configuration using numerous high level programming languages.
 
-* Developing various Python libraries for Azure devops pipelines - automation via RestAPI and http client 
+Building test automation frameworks to test cloud infrastructure state (Azure, K8s)
+using various high level programming languages.
 
-* Maintaining, developing and integration of security check pipelines: 
+Building various automation frameworks to programmatically generate
+CICD pipelines (Ado pipelines, jinja templates, Python, Powershell). 
 
-WhiteSource, Trivia, VeraCode, Virus Total, SSLLabs, Fortify using Ado pipelines and Powershell
+As result has successfully built and maintained hundreds of CICD pipelines
+for dozens of projects, dramatically simplifying maintenance and in scale support, reducing 
+necessity in manual pipeline coding via YAML.
 
-**Jan-2015 - Mar-2018** - Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
+Building and maintaining security checks using variety of tools and third part providers
+like WhiteSource, Trivia, VeraCode, Virus Total, SSLLabs, Fortify.
 
-Senior devops, implementing configuration management and infrastructure as a code for big pharma/bio tech customer.
+**Jan-2015 - Mar-2018** 
 
-Specific tasks performed:
+Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
 
-* Automation and integration with Artifactory repository using Artifactory Rest API
+Automation of AWS based infrastructure for big pharma/bio tech customer with Ruby and Opscode chef
+cookbooks.
 
-* Maintaining artifactory repositories for multiple dev teams
+Development of http tests automation framework (Perl, http, Bash) as a result 
+has tremendously increased confidence in deployment for dozens java web applications.
 
-Stack - Opscode Chef, Ruby, Perl, AWS. Debugging and support java applications (Java/Tomcat)
+Automation and integration with Artifactory repository using Artifactory Rest API
 
-**Jan-2007 - Dec-2014** - Lead devops engineer / Senior Software Engineer, Adriver LTD. Russia. [https://www.adriver.ru/](https://www.adriver.ru/)
+Debugging and troubleshooting java based applications (Java/Tomcat/Linux)
 
-As lead devops:
+**Jan-2007 - Dec-2014** 
 
-Building from the scratch internal build and monitoring systems (Ruby on Rails / Sinatra / Local CPAN), servers provisioning (chef).
+Lead devops engineer. Senior Software Engineer, Adriver LTD. Russia. [https://www.adriver.ru/](https://www.adriver.ru/)
+
+As a lead devops:
+
+Has built highly complex and easy to maintain build and deployment system with nice UI, tools:
+Ruby on Rails, Devise, Sinatra, Local CPAN, git.
+
+Being an advocate and pioneer of devops principals, acting as a bridge between ops and developers teams.
+
+Developing and maintaining numerous automation and monitoring tools, using Ruby, Sinatra and
+Ruby on Rails, Rspec.
+
+Developing complicated UI tests for numerous web backends using Ruby, Selenium, Capybara and Cucumber.
 
 Helping developers and operation departments cooperation, teaching operation people start working with chef. 
 
-Stack -  Opscode Chef, Ruby on Rails, Ruby, SVN/Git
-
 As senior backend developer:
 
-Developing internal and external Web APIs within team of developers (Perl, Catalyst, FastCGI)
+Has built a complex internal billing system, using Perl, Postgresql, Stored procedures, Postgresql rules.
+
+Developing numerious internal and external Web APIs (Perl, Catalyst, FastCGI), working as a part
+of big development team. Writing unit test using Test::More
 
 Technical stack - Perl, Nginx, Postgresql, MySQL, FastCGI, Linux
 
@@ -135,11 +170,14 @@ The Raku Conference. 2021.
 
 ## My blogs
 
-* [https://medium.com/@melezhik2](https://medium.com/@melezhik2) - Medium blog
+* [Raku Advent](https://raku-advent.blog/author/melezhik/) - my Raku Advent blogs
 
-* [https://dev.to/melezhik](https://dev.to/melezhik) - dev.to blog
+* [https://medium.com/@melezhik2](https://medium.com/@melezhik2) - my Medium blog
 
-* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - Sparrow/Sparrowdo blog
+* [https://dev.to/melezhik](https://dev.to/melezhik) - my dev.to blog
+
+* [https://sparrowdo.wordpress.com](https://sparrowdo.wordpress.com) - some my old 
+still interesting posts about Sparrow/Sparrowdo
 
 # Awards
 
