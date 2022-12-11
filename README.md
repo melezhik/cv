@@ -39,7 +39,7 @@ I can always find a balance in spending my work time on creating a proper design
 write quality code, sharing knowledge with other and writing a documentation.
 
 I am the author of many open source automation frameworks 
-and active member of Raku language community (https://raku.org , @melezhik)
+and active member of Raku language community ([https://raku.org](https://raku.org), @melezhik)
 
 Following is my job history and professional achievements for the last 15 years.
 
