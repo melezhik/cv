@@ -4,7 +4,7 @@ Lead Devops / Platform Engineer
 
 # Contacts
 
-Cell phone: +1 832-450-0615
+Cell phone: +1 832 450 0615
 
 Email: melezhik@gmail.com
 
@@ -35,12 +35,13 @@ yes I love to start  green fields projects :-)
 
 I am familiar with system design, algorithm and data structure concepts.
 
-I can always find a good balance in spending my work time to create a proper design, 
-write quality code, sharing knowledge with other and writing documentations
+I can always find a balance in spending my work time when creating a proper design, 
+write quality code, sharing knowledge with other and writing a documentation.
 
-I am the author of many open source automation frameworks and active member of Raku language community.
+I am the author of many open source automation frameworks 
+and active member of Raku language community (@melezhik)
 
-Following is my job history and achievements for the last 15 years
+Following is my job history and professional achievements for the last 15 years.
 
 # Job experience
 
@@ -49,7 +50,8 @@ Following is my job history and achievements for the last 15 years
 Chief System Engineer. EPAM Systems. US. [http://www.epam.com](http://www.epam.com)
 
 Act as architect and key developer in building and development of 
-various CICD systems and frameworks. For numerous  projects, customers and technical stacks.
+various CICD systems and frameworks. For numerous  projects, customers and technical stacks
+(Azure Devops, GitLab, GitHub Action, Azure, GCP, K8s)
 
 Work closely with architects, developers and operations acting as a key technical driver in devops processes.
 
@@ -74,7 +76,7 @@ like WhiteSource, Trivia, VeraCode, Virus Total, SSLLabs, Fortify.
 
 Senior Devops Engineer, EPAM Systems. Russia. [http://www.epam.com](http://www.epam.com)
 
-Automation of AWS based infrastructure for big pharma/bio tech customer with Ruby and Opscode chef
+Automation of AWS based infrastructure for big pharmacy/bio tech customer with Ruby and Opscode chef
 cookbooks.
 
 Development of http tests automation framework (Perl, http, Bash) as a result 
@@ -113,11 +115,11 @@ Technical stack - Perl, Nginx, Postgresql, MySQL, FastCGI, Linux
 
 # Skills
 
-* Clouds - extensive experience with Azure/Azure Devops,OpenStack
+* Clouds - extensive experience with Azure/Azure Devops, OpenStack, GCP
 * Kubernetes - AKS, Openshift, Docker
 * Repository managers - Atifactory, Alpine apk, Debian dpkg, Gentoo ebuild 
 * Programming languages - many years of experience building 
-systems with Python, Raku, GoLang, Perl,Powershell, Ruby, Bash
+  automation systems with Python, Raku, GoLang, Perl,Powershell, Ruby, Bash
 * Algorithms and data structures
 * CICD frameworks - Azure Devops, GitLab, GitHub Actions, Jenkins, Travis
 * Infrastructure as a code - Terraform, ARM templates, Azure Biceps
