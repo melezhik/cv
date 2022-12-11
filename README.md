@@ -25,8 +25,7 @@ between ops, devs and architects.
 
 I love to convert confusing and tangled systems into simple and easy to maintain.
 
-I can and love write tests for all my code. For low level (unit test) to high level (
-integration and acceptance tests).
+I can and love write tests for all my code. From low level (unit test) to high level (integration and acceptance tests).
 
 I am very systematic and attentive to details. I love and I can document my code.
 
