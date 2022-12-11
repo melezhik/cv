@@ -12,7 +12,7 @@ Email: melezhik@gmail.com
 
 I have a strong skill set related to platform engineering and devops.
 
-I have built quote a number of internal devops services, tools and automation frameworks
+I have built quite a number of internal devops services, tools and automation frameworks
 covering various aspects of SDLC.
 
 I can easily code on many programming languages including Python, Ruby, Perl, Raku, Powershell
@@ -20,26 +20,26 @@ and Golang.
 
 I can mix building of custom frameworks with use of well known systems and tools.
 
-I can not only code but make a solid system design acting as a ubiquitous mediator 
+I not only write a code but make a solid system design and act as a ubiquitous mediator 
 between ops, devs and architects.
 
 I love to convert confusing and tangled systems into simple and easy to maintain.
 
-I can and love write tests to all my code. I can write any sort of tests - unit tests,
-integration tests, acceptance tests and UI tests.
+I can and love write tests for all my code. For low level (unit test) to high level (
+integration and acceptance tests).
 
 I am very systematic and attentive to details. I love and I can document my code.
 
-I can work both with legacy code, eventually bringing things in order, and 
+I can work both with legacy systems, eventually bringing things in order, and 
 yes I love to start  green fields projects :-)
 
-I am familiar with system design, algorithm and data structure concepts.
+I am familiar with system design patterns, algorithms and data structures.
 
-I can always find a balance in spending my work time when creating a proper design, 
+I can always find a balance in spending my work time on creating a proper design, 
 write quality code, sharing knowledge with other and writing a documentation.
 
 I am the author of many open source automation frameworks 
-and active member of Raku language community (@melezhik)
+and active member of Raku language community (https://raku.org , @melezhik)
 
 Following is my job history and professional achievements for the last 15 years.
 
