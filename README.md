@@ -8,7 +8,7 @@ Cell phone: +1 832 450 0615
 
 Email: melezhik@gmail.com
 
-# Self introduction
+# Cover letter
 
 I have a strong skill set related to platform engineering and devops.
 
