@@ -48,21 +48,22 @@ Development of a vast internal build system to radically simplify deployments of
 Skills
 
 * Clouds - extensive experience with Azure/Azure Devops, OpenStack, GCP
-* Kubernetes - AKS, Openshift, OpenShift
-* Package managers - Artifactory, Alpine apk, Debian dpkg, Gentoo ebuild, pip, CPAN, ruby gems 
 * Programming languages - Perl, Python, Ruby, Powershell, Bash, Raku
-* Algorithms and data structures
+* Solid knowledge of Algorithms and data structures
 * CICD - Azure Devops, GitLab, GitHub Actions, Jenkins, Travis
+* Design of distributed systems. Database fundamentals
+* Kubernetes - AKS, Openshift, OpenShift
 * Infrastructure as a code - Terraform, ARM templates, Azure Biceps
 * Automation tools - Opscode chef, Ansible
 * SCM - git, subversion
 * Databases - MySQL, Postgresql
 * Software based storages - ceph
-* Networking - TCP/IP stack. Distributed systems. Database fundamentals
+* Networking - TCP/IP stack
 * Operations systems - Debian/Ubuntu/Alpine/Arch. Windows servers.
 * Linux kernel concept. OS fundamentals. 
 * Testing Frameworks - Test::More, Pytest, RSpec, Chef Inspec, Cucumber
 * UI testing frameworks - Ruby capybara / selenium 
+* Package managers - Artifactory, Alpine apk, Debian dpkg, Gentoo ebuild, pip, CPAN, ruby gems 
 
 Education
 
