@@ -13,13 +13,21 @@ Job experience
 Chief System Engineer. EPAM Systems. US. 
 
 
-Act as a lead platform engineer in many projects on the customer side.
-
-Build various and complex CICD systems targeting various stacks and environments and programming languages (k8s/big data/micro services/mobile/.net/python/golang).
+Has developed multiple complex CICD systems targeted to various stacks and environments (k8s/big data/micro services/mobile/.net/python/golang).
  
-Extensive use of  Python, Powershell and Perl to build internal tooling.  Automation of Azure cloud infrastructure and Ado ecosystem. Development of frameworks to automate CICD pipelines (Python, Jinja, Powershell, Perl) to manage dozens of  pipelines and projects. 
+Extensive use of  Python, Powershell and Perl6 to build internal tooling and platforms.
 
-Automation of openshift clusters deployment using custom scripts and internal tooling. Mentoring other devops helping them become better developers, code review, driving architecture changes. Discussing infrastructure design with system architects. Managing infrastructure using standard tools - ansible, chef, terraform, ARM, biceps.
+
+Technical leading of entire devops infrastructure, code review, mentoring other devops 
+ 
+Extensive automation of Azure cloud infrastructure and Ado ecosystem using Rest API and Python. 
+
+Development of frameworks to automate CICD pipelines (Python, Perl, RestAPI, code generators, template engines). Has built systems to manage hundreds of CICD pipelines.
+
+Automation of openshift clusters deployment on top of OpenStack. Automation of k8s infrastructure testing using Perl6/kubectl and YAML.
+
+Managing cloud infrastructure  with standards tools - ARM/Biceps, terraform
+
 
 
 
@@ -31,7 +39,7 @@ Act as a platform engineer, managing servers (hundreds of aws ec2 instances ) wi
 
 **Jan-2007 - Dec-2014** 
 
-Lead devops engineer. Adriver LTD. Russia. Saint-Petersburg.
+Lead Backend Engineer. Adriver LTD. Russia. Saint-Petersburg.
 
 Backend development for a large advertisement platform using PostgreSQL, MySQL, Perl, FastCGI and nginx. Development of an internal billing system using PostgreSQL and Perl.
 Development of a vast internal build system to radically simplify deployments of dozens applications to dozens of servers  using Ruby, Ruby on Rails, chef.
