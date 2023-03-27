@@ -4,7 +4,7 @@ Lead Devops / Lead Platform Engineer
 
 Contacts
 
-+1 832-450-061 / melezhik@gmail.com
++1 832-450-0615 / melezhik@gmail.com
 
 Job experience
 
