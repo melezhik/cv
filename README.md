@@ -4,32 +4,32 @@ Lead Devops / Lead Platform Engineer
 
 Contacts
 
-+1 832-450-0615 / melezhik@gmail.com
++7-905-261-6269 / melezhik@gmail.com
 
 Job experience
 
-**Mar-2018 - Present**
+**Mar-2025 - Now**
+
+Bureau 1440. Lead architect
+
+Lead architect of development platform. Creation of HLD/HLD for ongoing internal products, implementation review, development teams audit, project adaptation according security/business requirements.
+documentation (likec4, arch42), working closely with different stakeholders - system/business analyst, security, developers, product owners, leading products from the scratch to production. Stack in use - Golang, Kafka, Ory, Keycloak.
+
+IAM system design for critical Internet facing products with thousands of customers.
+
+
+**Mar-2023 - March 2025**
+
+MyOffice. System Architect
+
+Design and implement internal development platform working closely with a group of golang developers. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of ETCD, Mailion production deployment
+automation.
+
+**Mar-2018 - May 2023**
 
 Chief System Engineer. EPAM Systems. US. 
 
-
-Has developed multiple complex CICD systems targeted to various stacks and environments (k8s/big data/micro services/mobile/.net/python/golang).
- 
-Extensive use of  Python, Powershell and Perl6 to build internal tooling and platforms.
-
-
-Technical leading of entire devops infrastructure, code review, mentoring other devops 
- 
-Extensive automation of Azure cloud infrastructure and Ado ecosystem using Rest API and Python. 
-
-Development of frameworks to automate CICD pipelines (Python, Perl, RestAPI, code generators, template engines). Has built systems to manage hundreds of CICD pipelines.
-
-Automation of openshift clusters deployment on top of OpenStack. Automation of k8s infrastructure testing using Perl6/kubectl and YAML.
-
-Managing cloud infrastructure  with standards tools - ARM/Biceps, terraform
-
-
-
+Work on site with numerous EPAM customers. Designing and developing infrastructure, cicd flows, building platform engineering systems. Azure, K8s, Openshift, Azure Devops, Python. Coordinating and facilitating projects across numerous devops teams, establishing best practice.
 
 **Jan-2015 - Mar-2018** 
 
@@ -47,23 +47,25 @@ Development of a vast internal build system to radically simplify deployments of
 
 Skills
 
+* Architecture frameworks and standards - ach42, likec4, PlantUML
+* Architecture design patterns 
 * Clouds - extensive experience with Azure/Azure Devops, OpenStack, GCP
-* Programming languages - Perl, Python, Ruby, Powershell, Bash, Raku
-* Solid knowledge of Algorithms and data structures
-* CICD - Azure Devops, GitLab, GitHub Actions, Jenkins, Travis
+* Programming languages - Golang, Python, Ruby, Powershell, Bash, Perl
+* Solid knowledge of algorithms and data structures
+* CICD - Azure Devops, GitLab, GitHub Actions, Gitea, Jenkins, Travis
 * Design of distributed systems. Database fundamentals
+* Message brokers - RabbitMQ, Kafka
 * Kubernetes - AKS, Openshift, OpenShift
 * Infrastructure as a code - Terraform, ARM templates, Azure Biceps
-* Automation tools - Opscode chef, Ansible
+* Configuration management - Opscode Chef, Ansible
 * SCM - git, subversion
-* Databases - MySQL, Postgresql
+* Databases - MySQL, Postgresql, MongoDB
 * Software based storages - ceph
 * Networking - TCP/IP stack
 * Operations systems - Debian/Ubuntu/Alpine/Arch. Windows servers.
 * Linux kernel concept. OS fundamentals. 
 * Testing Frameworks - Test::More, Pytest, RSpec, Chef Inspec, Cucumber
-* UI testing frameworks - Ruby capybara / selenium 
-* Package managers - Artifactory, Alpine apk, Debian dpkg, Gentoo ebuild, pip, CPAN, ruby gems 
+* UI testing frameworks - Ruby capybara / Selenium  
 
 Education
 
@@ -71,14 +73,5 @@ Saint-Petersburg State University, Russia.  Faculty of Physics.  Master of physi
 
 My open source projects
 
-My github profile - https://github.com/melezhik . I am an active member of Raku community, irc - @melezhik . My actively maintained open source projects ci.sparrowhub.io, sparrowhub.io 
-
-
-My public talks
-
-The Raku Conference. 2022. Tomtit - Raku Task Runner
-The Raku Conference. 2021.5 minutes introduction into Sparrow 5 minutes introduction into Bird
-
-My blogs
-
-* Raku Advent blogs * Medium * Dev.to * Sparrowdo
+* https://github.com/melezhik - github repositories
+* https://sparrowhub.io - opensource automation framework
