@@ -78,3 +78,33 @@ My open source projects
 
 * https://github.com/melezhik - github repositories
 * https://sparrowhub.io - opensource automation framework
+
+
+---
+
+Cover letter
+
+
+HI! My name is Aleksei Melezhik. I am experienced system architect with a solid infrastructure
+past.
+
+I have a strong skills on system design, platform engineering and devops methodologies.
+
+I have successfully built a huge number of production ready internal and external products,
+working closely with developers team, system analyst, product owners and QA.
+
+I can find a reasonable balance between implementation cost and flexibility.
+
+I have a broad knowledge of today's best practices and IT technologies.
+
+My solid devops and infrastructure focus background help me to build systems with operation cost in m>
+
+My vast developers experience let me design systems with ability to go deep and
+articulate implementation details with developers when required.
+
+My opensource enthusiasm let me see when and where to add established open source technologies
+to enterprise IT landscape eliminating maintenance risks.
+
+I am looking forward to work with customers and help them to enable their success through
+the story of our win/win cooperation and keep learning throughout this journey.
+
