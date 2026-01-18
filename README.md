@@ -2,8 +2,6 @@
 
 System Architect
 
----
-
 Contacts
 
 +7-905-261-6269 / melezhik@gmail.com
