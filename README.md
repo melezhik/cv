@@ -85,8 +85,8 @@ My open source projects
 Cover letter
 
 
-HI! My name is Aleksei Melezhik. I am experienced system architect with a solid infrastructure
-past.
+HI! My name is Aleksei Melezhik. I am mature system architect with a solid infrastructure
+experience.
 
 I have a strong skills on system design, platform engineering and devops methodologies.
 
