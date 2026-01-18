@@ -22,8 +22,10 @@ IAM system design for critical Internet facing products with thousands of custom
 
 MyOffice. System Architect
 
-Design and implement internal development platform working closely with a group of golang developers. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of ETCD, Mailion production deployment
-automation.
+Design and implementation of internal development platform, working closely with a group of golang developers. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of ETCD. 
+
+Working together with devops team on complex Mailion product deployment system,
+drastically improving operation experience and maintenance costs
 
 **Mar-2018 - May 2023**
 
