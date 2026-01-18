@@ -12,17 +12,17 @@ Job experience
 
 Bureau 1440. Lead architect
 
-Lead architect of development platform. Creation of HLD/HLD for ongoing internal products, implementation review, development teams audit, project adaptation according security/business requirements.
-documentation (likec4, arch42), working closely with different stakeholders - system/business analysts, security team, developers, product owners, leading products from the scratch to production. Stack in use - Golang, Kafka, Ory, Keycloak.
+Lead architect of development platform. Creation of HLD/LLD specifications for ongoing internal products. Implementation review, developers teams audit, project adaptation according rapid changes of  security/business requirements.
+Architectural Documentation governance (likec4, arch42), working closely with different stakeholders - system/business analysts, security team, developers, product owners, leading products from the initial draft to production. 
+Technical stack in use - Golang, Kafka, Ory, Keycloak.
 
-IAM system design for critical Internet facing products with thousands of customers.
-
+IAM system design for critical Internet facing commercial production system with thousands of customers.
 
 **Mar-2023 - March 2025**
 
 MyOffice. System Architect
 
-Design and implementation of internal development platform, working closely with a group of golang developers. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of ETCD. 
+Design and implementation of internal development platform, working closely with a group of golang developers and QAs. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of ETCD. 
 
 Working together with devops team on complex Mailion product deployment system,
 drastically improving operation experience and maintenance costs
@@ -84,27 +84,27 @@ My open source projects
 
 Cover letter
 
-
 HI! My name is Aleksei Melezhik. I am mature system architect with a solid infrastructure
 experience.
 
-I have a strong skills on system design, platform engineering and devops methodologies.
+I have strong skills on system design, platform engineering and devops methodologies.
 
 I have successfully built a huge number of production ready internal and external products,
-working closely with developers team, system analyst, product owners and QA.
+working closely with developer teams, system analysts, product owners and QA.
 
 I can find a reasonable balance between implementation cost and flexibility.
 
-I have a broad knowledge of today's best practices and IT technologies.
+I have a broad knowledge of today's best practices and IT technologies, still eager to learn
+new subjects.
 
-My solid devops and infrastructure focus background help me to build systems with operation cost in m>
+My solid devops and infrastructure focused background helps me to build systems with operation cost and reliability in mind
 
-My vast developers experience let me design systems with ability to go deep and
+My vast developers experience encourages me not just design systems in high level but to go deep and
 articulate implementation details with developers when required.
 
-My opensource enthusiasm let me see when and where to add established open source technologies
+My opensource enthusiasm allows me to estimate when to add  established open source technologies
 to enterprise IT landscape eliminating maintenance risks.
 
-I am looking forward to work with customers and help them to enable their success through
-the story of our win/win cooperation and keep learning throughout this journey.
+I am looking forward to work closely with various customers and help them to achieve their success through
+the story of our productive collaboration.
 
