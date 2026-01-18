@@ -13,7 +13,7 @@ Job experience
 Bureau 1440. Lead architect
 
 Lead architect of development platform. Creation of HLD/HLD for ongoing internal products, implementation review, development teams audit, project adaptation according security/business requirements.
-documentation (likec4, arch42), working closely with different stakeholders - system/business analyst, security, developers, product owners, leading products from the scratch to production. Stack in use - Golang, Kafka, Ory, Keycloak.
+documentation (likec4, arch42), working closely with different stakeholders - system/business analysts, security team, developers, product owners, leading products from the scratch to production. Stack in use - Golang, Kafka, Ory, Keycloak.
 
 IAM system design for critical Internet facing products with thousands of customers.
 
@@ -61,6 +61,7 @@ Skills
 * Infrastructure as a code - Terraform, ARM templates, Azure Biceps
 * Configuration management - Opscode Chef, Ansible
 * SCM - git, subversion
+* IAM systems - Keycloak, ORY
 * Databases - MySQL, Postgresql, MongoDB
 * Software based storages - ceph
 * Networking - TCP/IP stack
