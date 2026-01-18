@@ -1,6 +1,8 @@
 Aleksei Melezhik 
 
-Lead Devops / Lead Platform Engineer
+System Architect
+
+---
 
 Contacts
 
