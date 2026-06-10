@@ -12,7 +12,7 @@ Job experience
 
 **Mar-2025 - Now**
 
-Bureau 1440. Lead system architect
+Bureau 1440. Russia. Lead system architect
 
 Lead architect of development platform. Creation of HLD/LLD specifications for ongoing internal products. Implementation review, developers teams audit, project adaptation according rapid changes of security/business requirements.
 Architectural documentation governance (likec4, arch42), working closely with different stakeholders - system/business analysts, security team, developers, product owners, leading products from the initial draft to production.  Technical stack in use - Golang, Kafka, Ory, Keycloak.
@@ -21,7 +21,7 @@ IAM system design for critical Internet facing commercial production system with
 
 **Mar-2023 - March 2025**
 
-MyOffice. System Architect
+MyOffice. Russia. System Architect
 
 Design and implementation of internal development platform, working closely with a group of golang developers and QAs. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of etcd storage. 
 
