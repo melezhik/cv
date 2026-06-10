@@ -6,15 +6,16 @@ Contacts
 
 +7-905-261-6269 / melezhik@gmail.com
 
+**Visa sponsorship required**
+
 Job experience
 
 **Mar-2025 - Now**
 
-Bureau 1440. Lead architect
+Bureau 1440. Lead system architect
 
-Lead architect of development platform. Creation of HLD/LLD specifications for ongoing internal products. Implementation review, developers teams audit, project adaptation according rapid changes of  security/business requirements.
-Architectural Documentation governance (likec4, arch42), working closely with different stakeholders - system/business analysts, security team, developers, product owners, leading products from the initial draft to production. 
-Technical stack in use - Golang, Kafka, Ory, Keycloak.
+Lead architect of development platform. Creation of HLD/LLD specifications for ongoing internal products. Implementation review, developers teams audit, project adaptation according rapid changes of security/business requirements.
+Architectural documentation governance (likec4, arch42), working closely with different stakeholders - system/business analysts, security team, developers, product owners, leading products from the initial draft to production.  Technical stack in use - Golang, Kafka, Ory, Keycloak.
 
 IAM system design for critical Internet facing commercial production system with thousands of customers.
 
@@ -22,7 +23,7 @@ IAM system design for critical Internet facing commercial production system with
 
 MyOffice. System Architect
 
-Design and implementation of internal development platform, working closely with a group of golang developers and QAs. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of ETCD. 
+Design and implementation of internal development platform, working closely with a group of golang developers and QAs. System design, implementation review, prototyping. Golang, RabbitMQ. Developing service discovery system built on top of etcd storage. 
 
 Working together with devops team on complex Mailion product deployment system,
 drastically improving operation experience and maintenance costs
@@ -37,13 +38,13 @@ Work on site with numerous EPAM customers. Designing and developing infrastructu
 
 Lead Devops Engineer. EPAM Systems. Russia.
  
-Act as a platform engineer, managing servers (hundreds of aws ec2 instances ) with chef and Ruby. Developing test automation framework using Perl. Debugging and maintaining java applications.
+Act as a platform engineer, managing servers (hundreds of aws ec2 instances ) with Opscode Chef and Ruby. Developing test automation framework using Perl. Debugging and maintaining java applications.
 
 **Jan-2007 - Dec-2014** 
 
 Lead Backend Engineer. Adriver LTD. Russia. Saint-Petersburg.
 
-Backend development for a large advertisement platform using PostgreSQL, MySQL, Perl, FastCGI and nginx. Development of an internal billing system using PostgreSQL and Perl.
+Backend development for a large advertisement platform using PostgreSQL, MySQL, Perl, FastCGI and Nginx. Development of an internal billing system using PostgreSQL and Perl.
 Development of a vast internal build system to radically simplify deployments of dozens applications to dozens of servers  using Ruby, Ruby on Rails, chef.
 
 
@@ -54,7 +55,7 @@ Skills
 * Clouds - extensive experience with Azure/Azure Devops, OpenStack, GCP
 * Programming languages - Golang, Python, Ruby, Powershell, Bash, Perl
 * Solid knowledge of algorithms and data structures
-* CICD - Azure Devops, GitLab, GitHub Actions, Gitea, Jenkins, Travis
+* CICD - Azure Devops, GitLab, GitHub Actions, Gitea, Forgejo, Jenkins, Travis
 * Design of distributed systems. Database fundamentals
 * Message brokers - RabbitMQ, Kafka
 * Kubernetes - AKS, Openshift, OpenShift
@@ -76,8 +77,9 @@ Saint-Petersburg State University, Russia.  Faculty of Physics.  Master of physi
 
 My open source projects
 
-* https://github.com/melezhik - github repositories
+* https://github.com/melezhik - numerous github repositories
 * https://sparrowhub.io - opensource automation framework
+* https://git.resf.org/testing/Sparky_Rocky - QA automation for Rocky Linux 
 
 
 ---
